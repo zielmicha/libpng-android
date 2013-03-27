@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_CFLAGS := 
 
-LOCAL_MODULE    := libpng
+LOCAL_MODULE    := png
 LOCAL_SRC_FILES :=\
 	png.c \
 	pngerror.c \
